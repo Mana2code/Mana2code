@@ -98,11 +98,7 @@ I’m now focused on **QA Leadership roles in Australia**, where I can contribut
 
 ---
 
-## 📊 GitHub Stats
 
-![Manaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mana2code\&show_icons=true\&theme=default)
-
----
 
 ## 🎯 Career Focus
 
